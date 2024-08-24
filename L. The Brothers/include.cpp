@@ -10,7 +10,4 @@ int main(){
     }else{
         cout<<"NOT";
     }
-    // string fl1=f1+l1;
-    // string fl2=f2+l2;
-
 }
